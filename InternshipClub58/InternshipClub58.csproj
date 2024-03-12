@@ -57,6 +57,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\belbet.png" />
+	  <None Remove="Resources\Images\club58.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>

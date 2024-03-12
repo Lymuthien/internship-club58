@@ -32937,11 +32937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pro\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
+      "projectUniqueName": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
       "projectName": "InternshipClub58",
-      "projectPath": "D:\\pro\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
+      "projectPath": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
       "packagesPath": "C:\\Users\\homepc\\.nuget\\packages\\",
-      "outputPath": "D:\\pro\\internship-club58\\InternshipClub58\\obj\\",
+      "outputPath": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

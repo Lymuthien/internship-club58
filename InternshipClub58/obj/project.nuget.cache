@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OsIuiBvt4PVcjxZM1bsaMpWcWprVj2gO0iKdBwZNrzWwtiTCB+YVXnqJcrsmxnFJFfYsKB4UZZSUP3sKPfb5nw==",
+  "dgSpecHash": "oPeDH/uDoEKO6DvZFdylklO6mjhvsFMt6c8MVF8d8AePmZ76+o5G+CPab26E9LH7G3fbyLx6xnWRPrRH7GMdww==",
   "success": true,
-  "projectFilePath": "D:\\pro\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
+  "projectFilePath": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\InternshipClub58.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\homepc\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\homepc\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

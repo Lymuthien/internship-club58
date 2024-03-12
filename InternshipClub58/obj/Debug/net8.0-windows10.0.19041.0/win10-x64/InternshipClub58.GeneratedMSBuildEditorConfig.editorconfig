@@ -8,35 +8,35 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InternshipClub58
-build_property.ProjectDir = D:\pro\internship-club58\InternshipClub58\
+build_property.ProjectDir = D:\pro\internship-club58\internship-club58\InternshipClub58\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[D:/pro/internship-club58/InternshipClub58/App.xaml]
+[D:/pro/internship-club58/internship-club58/InternshipClub58/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = InternshipClub58.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/pro/internship-club58/InternshipClub58/AppShell.xaml]
+[D:/pro/internship-club58/internship-club58/InternshipClub58/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = InternshipClub58.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/pro/internship-club58/InternshipClub58/MainPage.xaml]
+[D:/pro/internship-club58/internship-club58/InternshipClub58/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = InternshipClub58.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/pro/internship-club58/InternshipClub58/Resources/Styles/Colors.xaml]
+[D:/pro/internship-club58/internship-club58/InternshipClub58/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = InternshipClub58.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/pro/internship-club58/InternshipClub58/Resources/Styles/Styles.xaml]
+[D:/pro/internship-club58/internship-club58/InternshipClub58/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = InternshipClub58.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
