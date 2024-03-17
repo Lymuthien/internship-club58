@@ -24,14 +24,6 @@ namespace InternshipClub58
             InitializeComponent();
             BindingContext = this;
         }
-        /*
-        public List<ClubEvent> GetEvents()
-        {
-            var mock = new Mock<IClubEventService>();
-            mock.Setup(s => s.GetEvents()).Returns(GetTestEvents());
-
-            return mock.Object.GetEvents();
-        }*/
         private static List<ClubEvent> GetTestEvents()
         {
             var clubEvents = new List<ClubEvent>

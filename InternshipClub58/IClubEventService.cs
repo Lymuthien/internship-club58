@@ -11,6 +11,5 @@ namespace InternshipClub58
         List<ClubEvent> GetClubEvents();
         ClubEvent GetClubEvent(int id);
         void Create(ClubEvent clubEvent);
-        //List<ClubEvent> GetEvents();
     }
 }
