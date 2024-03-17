@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\pro\\internship-club58\\InternshipClub58\\",
+  "WorkspaceRootPath": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internshipclub58\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internshipclub58\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internshipclub58\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internshipclub58\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\mockclubeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:mockclubeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\iclubeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:iclubeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|d:\\pro\\internship-club58\\internship-club58\\internshipclub58\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6FB6C1-E3D6-48E7-8756-29C21A74DBEC}|InternshipClub58.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +58,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\pro\\internship-club58\\InternshipClub58\\AppShell.xaml",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "D:\\pro\\internship-club58\\InternshipClub58\\AppShell.xaml",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-08T15:29:31.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\pro\\internship-club58\\InternshipClub58\\App.xaml",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\pro\\internship-club58\\InternshipClub58\\App.xaml",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-08T15:28:49.895Z"
+              "WhenOpened": "2024-03-08T15:28:49.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\pro\\internship-club58\\InternshipClub58\\MainPage.xaml",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "D:\\pro\\internship-club58\\InternshipClub58\\MainPage.xaml",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-08T15:24:09.239Z"
+              "WhenOpened": "2024-03-08T15:24:09.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\pro\\internship-club58\\InternshipClub58\\MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "D:\\pro\\internship-club58\\InternshipClub58\\MainPage.xaml.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T15:24:07.532Z"
+              "WhenOpened": "2024-03-08T15:24:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClubEventService.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\IClubEventService.cs",
+              "RelativeDocumentMoniker": "IClubEventService.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\IClubEventService.cs",
+              "RelativeToolTip": "IClubEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:20:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:46:19.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:46:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockClubEventService.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MockClubEventService.cs",
+              "RelativeDocumentMoniker": "MockClubEventService.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MockClubEventService.cs",
+              "RelativeToolTip": "MockClubEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:21:25.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T07:30:04.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "D:\\pro\\internship-club58\\internship-club58\\InternshipClub58\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:16:13.061Z",
+              "EditorCaption": ""
             }
           ]
         }

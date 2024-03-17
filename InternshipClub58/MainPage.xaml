@@ -1,28 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="InternshipClub58.MainPage">
+             x:Class="InternshipClub58.MainPage"
+             BackgroundColor="#dedede">
 
     <ScrollView>
         <VerticalStackLayout
-            Padding="30,0"
             Spacing="25">
             <Image
-                Source="belbet.png"
-                HeightRequest="185"
+                Source="club58.jpg"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a race car number eight" />
+                HorizontalOptions="StartAndExpand" />
 
             <Label
-                Text="Hello"
+                Text="Events"
                 Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                SemanticProperties.HeadingLevel="Level1"/>
 
             <Label
-                Text="Dai Deneg"
+                Text="{Binding EventNames}" 
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+                SemanticProperties.Description="List of events" />
         </VerticalStackLayout>
     </ScrollView>
 

@@ -2,12 +2,17 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
+        public string EventNames { get; set; }
         public MainPage()
         {
+            var service = new MockClubEventService();
+            var events = service.GetEvents();
+            EventNames = string.Join("\n", events.Select(e => e.Name));
+
             InitializeComponent();
+            BindingContext = this;
         }
+
     }
 
 }
