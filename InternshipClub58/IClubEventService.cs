@@ -8,6 +8,9 @@ namespace InternshipClub58
 {
     public interface IClubEventService
     {
-        List<Event> GetEvents();
+        List<ClubEvent> GetClubEvents();
+        ClubEvent GetClubEvent(int id);
+        void Create(ClubEvent clubEvent);
+        //List<ClubEvent> GetEvents();
     }
 }
